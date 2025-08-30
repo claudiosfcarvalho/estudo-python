@@ -7,6 +7,7 @@ Este repositório contém códigos, anotações e exemplos práticos desenvolvid
 A organização segue a divisão por tópicos de estudo:
 
 📦 estudos-python
+
  ┣ 📁 basico
  ┃ ┣ 📄 variaveis.py
  ┃ ┣ 📄 condicionais.py
