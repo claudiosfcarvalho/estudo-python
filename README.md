@@ -7,20 +7,21 @@ Este repositório contém códigos, anotações e exemplos práticos desenvolvid
 A organização segue a divisão por tópicos de estudo:
 
 📦 estudos-python
- ┣ 📁 basico
- ┃ ┣ 📄 variaveis.py
- ┃ ┣ 📄 condicionais.py
- ┃ ┗ 📄 loops.py
- ┣ 📁 intermediario
- ┃ ┣ 📄 funcoes.py
- ┃
- ┣ 📄 listas_dicionarios.py
- ┃ ┗ 📄 arquivos.py
- ┣ 📁 avancado
- ┃ ┣ 📄 poo.py
- ┃ ┣ 📄 decoradores.py
- ┃ ┗ 📄 geradores.py
- ┗ 📄 README.md
+
+    ┣ 📁 basico
+    ┃ ┣ 📄 variaveis.py
+    ┃ ┣ 📄 condicionais.py
+    ┃ ┗ 📄 loops.py
+    ┣ 📁 intermediario
+    ┃ ┣ 📄 funcoes.py
+    ┃
+    ┣ 📄 listas_dicionarios.py
+    ┃ ┗ 📄 arquivos.py
+    ┣ 📁 avancado
+    ┃ ┣ 📄 poo.py
+    ┃ ┣ 📄 decoradores.py
+    ┃ ┗ 📄 geradores.py
+    ┗ 📄 README.md
 
 
 ## 📚 Conteúdos Abordados
@@ -45,9 +46,11 @@ A organização segue a divisão por tópicos de estudo:
    git clone https://github.com/seu-usuario/estudos-python.git
 
 2. **Acesse a pasta**
+    ```bash
     cd estudos-python
 
 3. **Execute um arquivo**
+   ```bash 
     python nome_do_arquivo.py
 
 Nota: É recomendado ter o Python 3.8+ instalado.
