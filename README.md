@@ -14,8 +14,7 @@ A organização segue a divisão por tópicos de estudo:
     ┃ ┗ 📄 loops.py
     ┣ 📁 intermediario
     ┃ ┣ 📄 funcoes.py
-    ┃
-    ┣ 📄 listas_dicionarios.py
+    ┃ ┣ 📄 listas_dicionarios.py
     ┃ ┗ 📄 arquivos.py
     ┣ 📁 avancado
     ┃ ┣ 📄 poo.py
